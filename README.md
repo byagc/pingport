@@ -4,7 +4,7 @@ Ping para porta via sockets do próprio windows
 Está sendo desenvolvido em Pascal usando a IDE Lazarus.
 Por que?
 
-  • Porque é um ambiente simples e eficiente e poderoso de programação.
+  • Porque é um ambiente simples, eficiente e poderoso de programação.
   
   • que faz executáveis independentes de framework x86 e x64
   
